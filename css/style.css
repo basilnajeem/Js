@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+html,
+body {
+    font-family: 'Roboto', sans-serif;
+    text-rendering: optimizeLegibility !important;
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+}
+
+.button {
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 500;
+    padding: 12px;
+}
+
+.newbg {
+    background-color: #a3b18a;
+    transition: all 1.5s ease-in-out;
+}
